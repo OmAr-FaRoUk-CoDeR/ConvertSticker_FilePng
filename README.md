@@ -1,7 +1,7 @@
 # SayatBot
 
 Welcome to SayatBot Sourceforce
-To install the source, go to the terminal and write:-
+To install the source, \ngo to the terminal and write:-
 
 
 1- Enter a token
