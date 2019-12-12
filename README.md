@@ -7,7 +7,8 @@ go to the terminal and write:-
 
 
 1- Enter a token
-    Go to the bot.js file, line 2, enter Token
+    <code>Go to the bot.js file, line 2</code>, enter Token
+
 2- The addictive entry goes to the bot.js file
     Line 9 enters your id
 
