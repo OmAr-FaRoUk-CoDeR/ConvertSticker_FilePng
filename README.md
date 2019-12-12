@@ -7,9 +7,10 @@ go to the terminal and write:-
 
 
 1- Enter a token
-    <code>Go to the bot.js file, line 2</code>, enter Token
+    Go to the bot.js file, line 2, enter Token
 
 2- The addictive entry goes to the bot.js file
     Line 9 enters your id
+
 
 #Thank_you_for_your_installation
