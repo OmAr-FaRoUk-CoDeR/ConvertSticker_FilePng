@@ -3,12 +3,14 @@ const Capella = require('@codexteam/capella-pics');
 const webp = require('webp-converter');
 const request = require('request');
 const fs = require('fs');
+const token = ''; //Put your token here
 var readFileSyncMember = fs.readFileSync(__dirname + "/member.json");
 var jReadFileSyncMember = JSON.parse(readFileSyncMember);
 var lengthMember = jReadFileSyncMember.member.length;
-var sudo = 886358218,
-    channel = '@jsbots';
-const token = '1076363738:AAEOxH6vf_C7J8uSzRUvr5txlcEp_b-We1s';
+var sudo = ; //Enter your ID here (Important)
+var channel = ''; //Put your username or channel link
+
+
 const bot = new TelegramBot(token, {polling:true});
 bot.on('message', (msg) => {
   var chatId = msg.chat.id;
