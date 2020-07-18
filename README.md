@@ -1,16 +1,11 @@
-# SayatBot
+welcome Dear
 
-Welcome to SayatBot Sourceforce
-To install the source
+1- Create a folder named uploads
+2- In bot convert the poster into a picture and into a png file
+All you have to do is place Token on line 6
 
-go to the terminal and write:-
+3- You put your ID in line 10
 
+4- Put your username or channel on line 11
 
-1- Enter a token
-    Go to the bot.js file, line 2, enter Token
-
-2- The addictive entry goes to the bot.js file
-    Line 9 enters your id
-
-
-#Thank_you_for_your_installation
+5- #Thank_you
